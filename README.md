@@ -1,2 +1,7 @@
-# Number-Guessing-Game
-A simple Python number guessing game.
+
+# Number Guessing Game
+
+A simple Python game where the user guesses a random number.
+
+## Technologies Used
+- Python
